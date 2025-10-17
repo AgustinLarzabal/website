@@ -2,4 +2,7 @@
 
 @theme {
   --color-background: oklch(0 0 0);
+
+  --font-sans: "Geist", sans-serif;
+  --font-mono: "Geist Mono", monospace;
 }
